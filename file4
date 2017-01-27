@@ -2,3 +2,5 @@ SVN-Git migration
 step1 : Prepare your environment for the migration
 Distributed,peer - peer to model
 backing up subversion repositories 
+Adavanced sysytems groupo
+Remove empty and delete only tip commit where appropriate

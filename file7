@@ -1,3 +1,5 @@
 3) Easy,cheap and efficient branch operations
 Git provide better auditing of branch and merge events
 understand,select,and locate data to migrate
+the technical fact central to the strategy 
+check for left over CVS to SVN junk commits and remove them if possible
